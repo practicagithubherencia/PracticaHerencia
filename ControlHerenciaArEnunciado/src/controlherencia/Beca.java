@@ -5,6 +5,7 @@ public class Beca {
 	private String dnialumno;
 	private double renta;
 	private int puntuacion;
+	private int herencia;
 		
 	public Beca(String dnialumno, double renta) {
 		super();
@@ -30,6 +31,7 @@ public class Beca {
 			if(renta >= 6000 && renta <= 10000)
 				puntuacion=1;
 			return puntuacion;
+			
 	}
 	
 	
