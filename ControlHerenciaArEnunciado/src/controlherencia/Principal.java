@@ -3,7 +3,7 @@ package controlherencia;
 import java.util.*;
 
 public class Principal {
-	static final int MAXBECAS = 20;
+	static final int MAXBECAS = 10;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
