@@ -10,7 +10,7 @@ public class Principal {
 		Scanner sc = new Scanner(System.in);
 
 		Beca becas[] = new Beca[MAXBECAS];
-		int numBecas = 0;
+		int numBecas =0;
  
 		int menu;
 
