@@ -14,7 +14,7 @@ public class Principal {
  
 		int menu;
 
-		// Se añaden tantas solicitudes como desee el usuario
+		// Se añaden tantas solicitude como desee el usuario
   
 		do {
 
