@@ -18,7 +18,7 @@ public class Principal {
   
 		do {
 
-			System.out.println("Dni del solicitante: ");
+			System.out.println("Dni del solicitante : ");
 			String dni = sc.nextLine();
 
 			int encontrado = buscarDni(dni, becas, numBecas);
