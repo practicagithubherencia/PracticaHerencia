@@ -14,11 +14,11 @@ public class Principal {
  
 		int menu;
 
-		// Se añaden tantas solicitudes como desee el usuario
+		// Se añaden tantas solicitude como desee el usuario
   
 		do {
 
-			System.out.println("Dni del solicitante: ");
+			System.out.println("Dni del solicitante : ");
 			String dni = sc.nextLine();
 
 			int encontrado = buscarDni(dni, becas, numBecas);
