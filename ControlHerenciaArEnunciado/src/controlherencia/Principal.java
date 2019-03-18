@@ -1,6 +1,6 @@
 package controlherencia;
 
-import java.util.*;
+import java.util.*; 
 
 public class Principal {
 	static final int MAXBECAS = 10;
@@ -11,7 +11,6 @@ public class Principal {
  
 		Beca becas[] = new Beca[MAXBECAS];
 		int numBecas =0;
-		int numBeca =0;
  
 		int menu;
 
