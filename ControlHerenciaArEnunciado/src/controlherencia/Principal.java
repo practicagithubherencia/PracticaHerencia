@@ -12,13 +12,8 @@ public class Principal {
 		
 		Beca becas[] = new Beca[MAXBECAS];
 		int numBecas =0;
-		int numBecas1 =0;
-		int numBecas2 =0;
  
 		int menu;
-		int menu2;
-		int menu3;
-		int menu4;
 
 		// Se añaden tantas solicitudes como desee el usuario
    
