@@ -15,7 +15,7 @@ public class Principal {
 		int menu;
 
 		// Se añaden tantas solicitudes como desee el usuario
-  
+   
 		do {
 
 			System.out.println("Dni del solicitante : ");
