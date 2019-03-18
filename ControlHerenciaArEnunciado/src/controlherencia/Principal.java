@@ -11,6 +11,7 @@ public class Principal {
  
 		Beca becas[] = new Beca[MAXBECAS];
 		int numBecas =0;
+		int numBeca =0;
  
 		int menu;
 
@@ -20,7 +21,7 @@ public class Principal {
 
 			System.out.println("Dni del solicitante : ");
 			String dni = sc.nextLine();
-
+  
 			int encontrado = buscarDni(dni, becas, numBecas);
 
 			if (encontrado == -1) {
